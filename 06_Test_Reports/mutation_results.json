@@ -1,0 +1,422 @@
+[
+ {
+  "id": 1,
+  "line": 13,
+  "kind": "bool",
+  "killed": true
+ },
+ {
+  "id": 2,
+  "line": 14,
+  "kind": "cmp",
+  "killed": true
+ },
+ {
+  "id": 3,
+  "line": 14,
+  "kind": "cmp",
+  "killed": true
+ },
+ {
+  "id": 4,
+  "line": 14,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 5,
+  "line": 14,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 6,
+  "line": 16,
+  "kind": "bool",
+  "killed": true
+ },
+ {
+  "id": 7,
+  "line": 18,
+  "kind": "cmp",
+  "killed": true
+ },
+ {
+  "id": 8,
+  "line": 18,
+  "kind": "cmp",
+  "killed": true
+ },
+ {
+  "id": 9,
+  "line": 18,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 10,
+  "line": 18,
+  "kind": "bool",
+  "killed": true
+ },
+ {
+  "id": 11,
+  "line": 18,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 12,
+  "line": 20,
+  "kind": "bool",
+  "killed": true
+ },
+ {
+  "id": 13,
+  "line": 27,
+  "kind": "bool",
+  "killed": true
+ },
+ {
+  "id": 14,
+  "line": 28,
+  "kind": "cmp",
+  "killed": true
+ },
+ {
+  "id": 15,
+  "line": 28,
+  "kind": "cmp",
+  "killed": true
+ },
+ {
+  "id": 16,
+  "line": 28,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 17,
+  "line": 28,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 18,
+  "line": 30,
+  "kind": "cmp",
+  "killed": true
+ },
+ {
+  "id": 19,
+  "line": 30,
+  "kind": "cmp",
+  "killed": true
+ },
+ {
+  "id": 20,
+  "line": 30,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 21,
+  "line": 30,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 22,
+  "line": 32,
+  "kind": "cmp",
+  "killed": true
+ },
+ {
+  "id": 23,
+  "line": 40,
+  "kind": "cmp",
+  "killed": true
+ },
+ {
+  "id": 24,
+  "line": 40,
+  "kind": "cmp",
+  "killed": true
+ },
+ {
+  "id": 25,
+  "line": 40,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 26,
+  "line": 40,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 27,
+  "line": 45,
+  "kind": "bool",
+  "killed": true
+ },
+ {
+  "id": 28,
+  "line": 47,
+  "kind": "cmp",
+  "killed": true
+ },
+ {
+  "id": 29,
+  "line": 49,
+  "kind": "bool",
+  "killed": true
+ },
+ {
+  "id": 30,
+  "line": 49,
+  "kind": "cmp",
+  "killed": true
+ },
+ {
+  "id": 31,
+  "line": 49,
+  "kind": "cmp",
+  "killed": true
+ },
+ {
+  "id": 32,
+  "line": 49,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 33,
+  "line": 49,
+  "kind": "const",
+  "killed": false
+ },
+ {
+  "id": 34,
+  "line": 49,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 35,
+  "line": 58,
+  "kind": "bool",
+  "killed": true
+ },
+ {
+  "id": 36,
+  "line": 60,
+  "kind": "bool",
+  "killed": true
+ },
+ {
+  "id": 37,
+  "line": 77,
+  "kind": "cmp",
+  "killed": true
+ },
+ {
+  "id": 38,
+  "line": 81,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 39,
+  "line": 81,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 40,
+  "line": 89,
+  "kind": "cmp",
+  "killed": true
+ },
+ {
+  "id": 41,
+  "line": 91,
+  "kind": "bool",
+  "killed": true
+ },
+ {
+  "id": 42,
+  "line": 91,
+  "kind": "cmp",
+  "killed": true
+ },
+ {
+  "id": 43,
+  "line": 91,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 44,
+  "line": 91,
+  "kind": "cmp",
+  "killed": true
+ },
+ {
+  "id": 45,
+  "line": 91,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 46,
+  "line": 102,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 47,
+  "line": 102,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 48,
+  "line": 102,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 49,
+  "line": 102,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 50,
+  "line": 103,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 51,
+  "line": 103,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 52,
+  "line": 103,
+  "kind": "const",
+  "killed": false
+ },
+ {
+  "id": 53,
+  "line": 103,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 54,
+  "line": 106,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 55,
+  "line": 106,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 56,
+  "line": 109,
+  "kind": "cmp",
+  "killed": true
+ },
+ {
+  "id": 57,
+  "line": 110,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 58,
+  "line": 110,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 59,
+  "line": 110,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 60,
+  "line": 111,
+  "kind": "cmp",
+  "killed": true
+ },
+ {
+  "id": 61,
+  "line": 112,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 62,
+  "line": 112,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 63,
+  "line": 112,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 64,
+  "line": 114,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 65,
+  "line": 114,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 66,
+  "line": 114,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 67,
+  "line": 114,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 68,
+  "line": 123,
+  "kind": "cmp",
+  "killed": true
+ },
+ {
+  "id": 69,
+  "line": 123,
+  "kind": "const",
+  "killed": true
+ },
+ {
+  "id": 70,
+  "line": 125,
+  "kind": "const",
+  "killed": true
+ }
+]
